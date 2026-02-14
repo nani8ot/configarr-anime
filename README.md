@@ -1,5 +1,4 @@
-# DEPRECATED
-Use https://github.com/LaurenceBarnes/Guides instead
+# DEPRECATED: Use https://github.com/LaurenceBarnes/Guides instead
 
 1. Clone the repo
 2. Change Radarr/Sonarr API key in `config/secrets.yml`
